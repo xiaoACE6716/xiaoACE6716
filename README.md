@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm xiaoACE,I'm interested in developing something interesting, but most of them are useless and badly coded.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoACE6716&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoACE6716&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
