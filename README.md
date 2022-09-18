@@ -1,6 +1,6 @@
-## Hello there 👋
+# Hello there 👋
 
-##About Me
+## About Me
 
 - 👀 I'm xiaoACE,I'm interested in developing something interesting, but most of them are useless and badly coded.
 - 💻 I'm a Java developer, mostly focused on backend.
@@ -13,7 +13,9 @@
 
 <!--
 **xiaoACE6716/xiaoACE6716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
