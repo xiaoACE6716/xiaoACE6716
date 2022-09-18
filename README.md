@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hello there 👋
 
-I'm xiaoACE,I'm interested in developing something interesting, but most of them are useless and badly coded.
+##About Me
+
+- 👀 I'm xiaoACE,I'm interested in developing something interesting, but most of them are useless and badly coded.
+- 💻 I'm a Java developer, mostly focused on backend.
+- 🎮 I love Minecraft.
+- 🌱 Knowledge has no limit
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoACE6716&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
