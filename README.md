@@ -10,8 +10,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoACE6716&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 已入驻爱发电
-[想要支持我？请我喝瓶饮料吧！点击跳转我的爱发电主页！](https://afdian.net/a/SaltyFishHome)
-或者复制地址到地址栏访问：https://afdian.net/a/SaltyFishHome
+[想要支持我？请我喝瓶饮料吧！点击跳转我的爱发电主页！](https://afdian.com/a/SaltyFishHome)
+或者复制地址到地址栏访问：[https://afdian.net/a/SaltyFishHome](https://afdian.com/a/SaltyFishHome)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoACE6716&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
